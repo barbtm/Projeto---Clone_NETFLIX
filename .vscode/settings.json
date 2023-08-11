@@ -1,0 +1,10 @@
+{
+    "window.autoDetectColorScheme": false,
+    "indentRainbow.colorOnWhiteSpaceOnly": true,
+    "debug.javascript.breakOnConditionalError": true,
+    "debug.javascript.automaticallyTunnelRemoteServer": false,
+    "indentRainbow.excludedLanguages": [
+        "plaintext"
+    ],
+    "indentRainbow.indicatorStyle": "classic"
+}
