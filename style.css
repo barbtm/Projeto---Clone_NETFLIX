@@ -12,10 +12,10 @@
 }
 
 body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
+    display: flex; /*modifica o conteudo do form*/
+    justify-content: center; /*modifica o conteudo do form*/
+    align-items: center; /*modifica o conteudo do form*/
+    min-height: 100vh; /*modifica e atualiza tamanho de img*/
     padding: 0;
     width: 50% 50% 50% 50%;
     margin: 0;
